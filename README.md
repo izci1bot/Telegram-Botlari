@@ -1,5 +1,5 @@
 ### Telegram-Botlari
 
-t.me/tdk_iibot
+https://t.me/tdk_iibot
 
 
